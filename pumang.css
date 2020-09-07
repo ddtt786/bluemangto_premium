@@ -1,0 +1,102 @@
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'NanumSquare', sans-serif !important;
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+.bar{
+    padding: 0;
+    width: screen;
+    height: 50px;
+    background: white;
+    text-align: center;
+    color: black;
+    padding-top: 5px;
+    text-align: left;
+}
+
+.ttl{
+    padding: 0;
+    width: screen;
+    height: 200px;
+    background: linear-gradient( to right, #dee6f3, #f4f5f8 );
+    text-align: center;
+    font-size: 30px;
+    padding-top: 25px;
+    color: white;
+}
+.zac{
+    margin: auto;
+    padding: 0;
+    width: 70%;
+    height: 200px;
+    background: #f3f6fc;
+    font-size: 30px;
+    padding-top: 25px;
+    color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+
+.bttn {
+    font-family: 'NanumSquare', sans-serif !important;
+    background-color: #002E74;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 16px;
+}
+.bttn:hover {
+    font-family: 'NanumSquare', sans-serif !important;
+    background-color: #d3e1f8;;
+    color: #002E74;
+    border-radius: 5px;
+    border: 0;
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+h1 {
+    font-size: 75px;
+    margin: 0;
+    margin-top: 40px;
+    text-align: center;
+    color: #002E74;
+}
+h2 {
+    text-align: center;
+    margin: 0;
+    color: #4873b3;
+}
+h3 {
+    text-align: center;
+}
+
+img {
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
