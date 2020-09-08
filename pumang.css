@@ -63,9 +63,11 @@ body {
 }
 .bttn:hover {
     font-family: 'NanumSquare', sans-serif !important;
-    background-color: #d3e1f8;;
+    background-color: #FFFFFF;
     color: #002E74;
     border-radius: 5px;
+    border-color: #002E74;
+    border-width: 1px;
     border: 0;
     padding: 12px;
     font-size: 20px;
